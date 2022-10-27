@@ -3,7 +3,7 @@
 ```cpp
 #include <iostream>
 
-int main(int argc, char* argv[]) {
+auto main(int argc, char* argv[]) -> int {
   std::cout << "Hello, I'm Luka!\n";
   std::cout << "I like open source stuff.\n";
   
